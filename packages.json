@@ -1,0 +1,12 @@
+{
+    "minimumVersion": 1,
+    "packages": [
+        {
+            "name": "Alice 1.12",
+            "title": "Alice 1.12",
+            "version": "535632262",
+            "location": "modpacks/skcraft/alice-1.12/skcraft-alice-1-12.json",
+            "priority": 1
+        }
+    ]
+}
